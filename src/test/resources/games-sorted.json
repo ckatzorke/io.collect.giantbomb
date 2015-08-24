@@ -1,0 +1,51 @@
+{
+    "error": "OK",
+    "limit": 10,
+    "offset": 0,
+    "number_of_page_results": 10,
+    "number_of_total_results": 45275,
+    "status_code": 1,
+    "results": [
+        {
+            "id": 49318,
+            "name": "Assassin's Creed Chronicles: China"
+        },
+        {
+            "id": 49317,
+            "name": "Assassin’s Creed Chronicles: Russia"
+        },
+        {
+            "id": 49316,
+            "name": "Assassin’s Creed Chronicles: India"
+        },
+        {
+            "id": 49315,
+            "name": "Harmonia"
+        },
+        {
+            "id": 49314,
+            "name": "Shin Mahjong"
+        },
+        {
+            "id": 49312,
+            "name": "AdVenture Capitalist"
+        },
+        {
+            "id": 49311,
+            "name": "Vincere Totus Astrum"
+        },
+        {
+            "id": 49310,
+            "name": "Steed"
+        },
+        {
+            "id": 49309,
+            "name": "Splotches"
+        },
+        {
+            "id": 49308,
+            "name": "F.A. Manager"
+        }
+    ],
+    "version": "1.0"
+}

@@ -1,0 +1,31 @@
+{
+    "error": "OK",
+    "limit": 100,
+    "offset": 0,
+    "number_of_page_results": 7,
+    "number_of_total_results": 7,
+    "status_code": 1,
+    "results": [{
+        "name": "Streets of Rage",
+        "resource_type": "game"
+    }, {
+        "name": "Streets of Rage 3",
+        "resource_type": "game"
+    }, {
+        "name": "Streets of Rage 2",
+        "resource_type": "game"
+    }, {
+        "name": "Streets of Rage Remake",
+        "resource_type": "game"
+    }, {
+        "name": "Sega Vintage Collection: Streets of Rage",
+        "resource_type": "game"
+    }, {
+        "name": "Urban Extreme: Street Rage",
+        "resource_type": "game"
+    }, {
+        "name": "Streets of Rage",
+        "resource_type": "franchise"
+    }],
+    "version": "1.0"
+}

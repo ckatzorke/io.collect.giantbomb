@@ -1,0 +1,13 @@
+{
+    "error": "OK",
+    "limit": 1,
+    "offset": 0,
+    "number_of_page_results": 1,
+    "number_of_total_results": 1,
+    "status_code": 1,
+    "results": {
+        "deck": "Day of the Tentacle is a point-and-click adventure game that follows Bernard Bernoulli, Laverne, and Hoagie as they try to prevent Purple Tentacle from taking over the world.",
+        "name": "Maniac Mansion: Day of the Tentacle"
+    },
+    "version": "1.0"
+}

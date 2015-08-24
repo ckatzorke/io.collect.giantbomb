@@ -1,0 +1,40 @@
+{
+    "error": "OK",
+    "limit": 10,
+    "offset": 0,
+    "number_of_page_results": 10,
+    "number_of_total_results": 45275,
+    "status_code": 1,
+    "results": [{
+        "id": 1,
+        "name": "Desert Strike: Return to the Gulf"
+    }, {
+        "id": 2,
+        "name": "Breakfree"
+    }, {
+        "id": 3,
+        "name": "Hyperballoid Deluxe: Survival Pack"
+    }, {
+        "id": 4,
+        "name": "The Chessmaster 2000"
+    }, {
+        "id": 5,
+        "name": "Bass Avenger"
+    }, {
+        "id": 6,
+        "name": "WWE SmackDown! vs. RAW 2007"
+    }, {
+        "id": 7,
+        "name": "Camelot Warriors"
+    }, {
+        "id": 8,
+        "name": "Super Spy Hunter"
+    }, {
+        "id": 9,
+        "name": "Fritz 9: Play Chess"
+    }, {
+        "id": 10,
+        "name": "The Real Deal 2"
+    }],
+    "version": "1.0"
+}

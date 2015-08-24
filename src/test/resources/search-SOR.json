@@ -1,0 +1,264 @@
+{
+    "error": "OK",
+    "limit": 100,
+    "offset": 0,
+    "number_of_page_results": 7,
+    "number_of_total_results": 7,
+    "status_code": 1,
+    "results": [{
+        "deck": "When a once-peaceful city falls to crime and corruption, it's up to three ex-cops to take on the cause: a powerful criminal organization led by the sinister Mr. X.",
+        "id": 20436,
+        "image": {
+            "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/8\/87790\/2224350-box_sor.png",
+            "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/8\/87790\/2224350-box_sor.png",
+            "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/8\/87790\/2224350-box_sor.png",
+            "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/8\/87790\/2224350-box_sor.png",
+            "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/8\/87790\/2224350-box_sor.png",
+            "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/8\/87790\/2224350-box_sor.png",
+            "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/8\/87790\/2224350-box_sor.png"
+        },
+        "name": "Streets of Rage",
+        "platforms": [{
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-5\/",
+            "id": 5,
+            "name": "Game Gear",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/game-gear\/3045-5\/",
+            "abbreviation": "GG"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-6\/",
+            "id": 6,
+            "name": "Genesis",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/genesis\/3045-6\/",
+            "abbreviation": "GEN"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-8\/",
+            "id": 8,
+            "name": "Sega Master System",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/sega-master-system\/3045-8\/",
+            "abbreviation": "SMS"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-29\/",
+            "id": 29,
+            "name": "Sega CD",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/sega-cd\/3045-29\/",
+            "abbreviation": "SCD"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-87\/",
+            "id": 87,
+            "name": "Wii Shop",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/wii-shop\/3045-87\/",
+            "abbreviation": "WSHP"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+            "id": 94,
+            "name": "PC",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/pc\/3045-94\/",
+            "abbreviation": "PC"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-96\/",
+            "id": 96,
+            "name": "iPhone",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/iphone\/3045-96\/",
+            "abbreviation": "IPHN"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-121\/",
+            "id": 121,
+            "name": "iPad",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/ipad\/3045-121\/",
+            "abbreviation": "IPAD"
+        }],
+        "resource_type": "game"
+    }, {
+        "deck": "Mr. X returns, and this time he brought robots! It's up to Axel, Blaze, Skate, and the mysterious cyborg Dr. Zan to put an end to Mr. X's plans once and for all in the final installment of the Streets of Rage trilogy.",
+        "id": 15924,
+        "image": {
+            "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/8\/87790\/2224352-box_sor3.png",
+            "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/8\/87790\/2224352-box_sor3.png",
+            "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/8\/87790\/2224352-box_sor3.png",
+            "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/8\/87790\/2224352-box_sor3.png",
+            "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/8\/87790\/2224352-box_sor3.png",
+            "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/8\/87790\/2224352-box_sor3.png",
+            "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/8\/87790\/2224352-box_sor3.png"
+        },
+        "name": "Streets of Rage 3",
+        "platforms": [{
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-6\/",
+            "id": 6,
+            "name": "Genesis",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/genesis\/3045-6\/",
+            "abbreviation": "GEN"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-87\/",
+            "id": 87,
+            "name": "Wii Shop",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/wii-shop\/3045-87\/",
+            "abbreviation": "WSHP"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+            "id": 94,
+            "name": "PC",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/pc\/3045-94\/",
+            "abbreviation": "PC"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-96\/",
+            "id": 96,
+            "name": "iPhone",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/iphone\/3045-96\/",
+            "abbreviation": "IPHN"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-121\/",
+            "id": 121,
+            "name": "iPad",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/ipad\/3045-121\/",
+            "abbreviation": "IPAD"
+        }],
+        "resource_type": "game"
+    }, {
+        "deck": "Mr. X and his powerful criminal syndicate have returned to the streets. Players take control of up to two of the four vigilantes, fighting their way through the hordes of punks once again, in one of the most acclaimed beat 'em up brawlers of all time.",
+        "id": 18122,
+        "image": {
+            "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/8\/87790\/2224351-box_sor2.png",
+            "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/8\/87790\/2224351-box_sor2.png",
+            "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/8\/87790\/2224351-box_sor2.png",
+            "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/8\/87790\/2224351-box_sor2.png",
+            "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/8\/87790\/2224351-box_sor2.png",
+            "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/8\/87790\/2224351-box_sor2.png",
+            "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/8\/87790\/2224351-box_sor2.png"
+        },
+        "name": "Streets of Rage 2",
+        "platforms": [{
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-5\/",
+            "id": 5,
+            "name": "Game Gear",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/game-gear\/3045-5\/",
+            "abbreviation": "GG"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-6\/",
+            "id": 6,
+            "name": "Genesis",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/genesis\/3045-6\/",
+            "abbreviation": "GEN"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-8\/",
+            "id": 8,
+            "name": "Sega Master System",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/sega-master-system\/3045-8\/",
+            "abbreviation": "SMS"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-84\/",
+            "id": 84,
+            "name": "Arcade",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/arcade\/3045-84\/",
+            "abbreviation": "ARC"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-86\/",
+            "id": 86,
+            "name": "Xbox 360 Games Store",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/xbox-360-games-store\/3045-86\/",
+            "abbreviation": "XBGS"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-87\/",
+            "id": 87,
+            "name": "Wii Shop",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/wii-shop\/3045-87\/",
+            "abbreviation": "WSHP"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-88\/",
+            "id": 88,
+            "name": "PlayStation Network (PS3)",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/playstation-network-ps3\/3045-88\/",
+            "abbreviation": "PS3N"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+            "id": 94,
+            "name": "PC",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/pc\/3045-94\/",
+            "abbreviation": "PC"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-96\/",
+            "id": 96,
+            "name": "iPhone",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/iphone\/3045-96\/",
+            "abbreviation": "IPHN"
+        }, {
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-121\/",
+            "id": 121,
+            "name": "iPad",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/ipad\/3045-121\/",
+            "abbreviation": "IPAD"
+        }],
+        "resource_type": "game"
+    }, {
+        "deck": "Streets of Rage Remake was a high-profile fan game that was issued a cease &amp; desist almost immediately following release.",
+        "id": 41373,
+        "image": {
+            "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/16\/164924\/2420967-streets_rage_remake_69432_2.jpg",
+            "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/16\/164924\/2420967-streets_rage_remake_69432_2.jpg",
+            "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/16\/164924\/2420967-streets_rage_remake_69432_2.jpg",
+            "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/16\/164924\/2420967-streets_rage_remake_69432_2.jpg",
+            "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/16\/164924\/2420967-streets_rage_remake_69432_2.jpg",
+            "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/16\/164924\/2420967-streets_rage_remake_69432_2.jpg",
+            "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/16\/164924\/2420967-streets_rage_remake_69432_2.jpg"
+        },
+        "name": "Streets of Rage Remake",
+        "platforms": [{
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-94\/",
+            "id": 94,
+            "name": "PC",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/pc\/3045-94\/",
+            "abbreviation": "PC"
+        }],
+        "resource_type": "game"
+    }, {
+        "deck": "A downloadable compilation that brings the entire Streets of Rage series to Xbox Live Arcade.",
+        "id": 38381,
+        "image": {
+            "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/8\/87790\/2214667-box_svcsor.png",
+            "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/8\/87790\/2214667-box_svcsor.png",
+            "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/8\/87790\/2214667-box_svcsor.png",
+            "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/8\/87790\/2214667-box_svcsor.png",
+            "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/8\/87790\/2214667-box_svcsor.png",
+            "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/8\/87790\/2214667-box_svcsor.png",
+            "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/8\/87790\/2214667-box_svcsor.png"
+        },
+        "name": "Sega Vintage Collection: Streets of Rage",
+        "platforms": [{
+            "api_detail_url": "http:\/\/www.giantbomb.com\/api\/platform\/3045-86\/",
+            "id": 86,
+            "name": "Xbox 360 Games Store",
+            "site_detail_url": "http:\/\/www.giantbomb.com\/xbox-360-games-store\/3045-86\/",
+            "abbreviation": "XBGS"
+        }],
+        "resource_type": "game"
+    }, {
+        "deck": "A street based racing game for the Wii.",
+        "id": 42449,
+        "image": {
+            "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/18\/189323\/2472375-urban+extreme+street+rage.jpg",
+            "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/18\/189323\/2472375-urban+extreme+street+rage.jpg",
+            "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/18\/189323\/2472375-urban+extreme+street+rage.jpg",
+            "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/18\/189323\/2472375-urban+extreme+street+rage.jpg",
+            "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/18\/189323\/2472375-urban+extreme+street+rage.jpg",
+            "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/18\/189323\/2472375-urban+extreme+street+rage.jpg",
+            "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/18\/189323\/2472375-urban+extreme+street+rage.jpg"
+        },
+        "name": "Urban Extreme: Street Rage",
+        "platforms": null,
+        "resource_type": "game"
+    }, {
+        "deck": "The Streets of Rage franchise was a trilogy of side-scrolling brawlers originally released for the Sega Mega Drive\/Genesis. In the games, players take on the role of a group of ex-cops, determined to remove the gangs of thugs overrunning the city streets. It is one of the most acclaimed beat 'em up series of all time.",
+        "id": 322,
+        "image": {
+            "icon_url": "http:\/\/static.giantbomb.com\/uploads\/square_avatar\/13\/139866\/2695263-streets+of+rage+3+crop.jpg",
+            "medium_url": "http:\/\/static.giantbomb.com\/uploads\/scale_medium\/13\/139866\/2695263-streets+of+rage+3+crop.jpg",
+            "screen_url": "http:\/\/static.giantbomb.com\/uploads\/screen_medium\/13\/139866\/2695263-streets+of+rage+3+crop.jpg",
+            "small_url": "http:\/\/static.giantbomb.com\/uploads\/scale_small\/13\/139866\/2695263-streets+of+rage+3+crop.jpg",
+            "super_url": "http:\/\/static.giantbomb.com\/uploads\/scale_large\/13\/139866\/2695263-streets+of+rage+3+crop.jpg",
+            "thumb_url": "http:\/\/static.giantbomb.com\/uploads\/scale_avatar\/13\/139866\/2695263-streets+of+rage+3+crop.jpg",
+            "tiny_url": "http:\/\/static.giantbomb.com\/uploads\/square_mini\/13\/139866\/2695263-streets+of+rage+3+crop.jpg"
+        },
+        "name": "Streets of Rage",
+        "resource_type": "franchise"
+    }],
+    "version": "1.0"
+}

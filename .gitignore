@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+
+# maven
+/target
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+
+# Dependency directory
+# Commenting this out is preferred by some people, see
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
+node_modules
+bower_components
+
+#the dist
+/dist
+
+#Eclipse/STS
+/.project
+/.classpath
+/.settings
+/.springBeans
+/bin
+
+#OS
+.DS_Store
+Thumbs.db
